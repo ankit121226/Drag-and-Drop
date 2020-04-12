@@ -1,0 +1,11 @@
+
+  .left-cont{
+    background-color: #cdcdcd;
+    height: 100vh;
+  }
+  .rigth-cont{
+    height: 100vh;
+  }
+  .sub-parent{
+    display: table;
+  }
